@@ -6,6 +6,8 @@ A 497 × 71 button body whose middle is one flat colour becomes, say, 120 × 71:
 
 ## Installation
 
+A step-by-step guide to installing and using the tool is in the [repository README](https://github.com/dyskotron/9SliceOptimizer#install).
+
 Add to your Unity project via the Package Manager using the git URL:
 
 ```
