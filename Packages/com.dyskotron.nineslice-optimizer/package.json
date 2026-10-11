@@ -1,0 +1,27 @@
+{
+  "name": "com.dyskotron.nineslice-optimizer",
+  "version": "1.0.0",
+  "displayName": "9-Slice Optimizer",
+  "description": "Editor tool that shrinks a 9-sliced sprite's stretch zones to a few pixels, keeping its border and corners, so the texture only holds what the 9-slice renderer actually shows.",
+  "unity": "2021.3",
+  "dependencies": {
+    "com.unity.2d.sprite": "1.0.0"
+  },
+  "author": {
+    "name": "Dyskotron",
+    "url": "https://github.com/dyskotron"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dyskotron/9SliceOptimizer.git"
+  },
+  "keywords": [
+    "9-slice",
+    "nine-slice",
+    "sprite",
+    "ui",
+    "editor",
+    "texture"
+  ],
+  "license": "MIT"
+}
