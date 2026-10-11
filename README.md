@@ -10,7 +10,7 @@ The package itself is in [`Packages/com.dyskotron.nineslice-optimizer`](Packages
 
 ## Install
 
-Requires Unity 2021.3 or newer. The 2D Sprite package is installed with it automatically.
+Requires Unity 2021.3 or newer.
 
 1. In Unity open **Window › Package Manager**.
 2. Click the **+** button in the top-left corner and choose **Install package from git URL…** (older versions: *Add package from git URL…*).

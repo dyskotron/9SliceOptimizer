@@ -24,7 +24,7 @@ Or in `Packages/manifest.json`:
 }
 ```
 
-Append `#v1.0.0` to the URL to pin a release. Requires Unity 2021.3 or newer and the 2D Sprite package (installed as a dependency).
+Append `#v1.0.0` to the URL to pin a release. Requires Unity 2021.3 or newer.
 
 ## Use
 
